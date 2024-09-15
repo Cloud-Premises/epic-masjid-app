@@ -20,7 +20,7 @@
         "clock": "PM"
       },
       "Maghrib": {
-        "start": "07:42",
+        "start": "06:40",
         "end": "07:47",
         "notification": true,
         "clock": "PM"
