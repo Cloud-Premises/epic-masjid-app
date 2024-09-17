@@ -16,7 +16,7 @@
       "Dhuhr": {
         "start": {
           "time": "01:24",
-          "clock": "AM",
+          "clock": "PM",
           "notification": true
         },
         "end": {
@@ -78,7 +78,7 @@
       "Dhuhr": {
         "start": {
           "time": "01:24",
-          "clock": "AM",
+          "clock": "PM",
           "notification": true
         },
         "end": {
@@ -142,7 +142,7 @@
       "Dhuhr": {
         "start": {
           "time": "01:24",
-          "clock": "AM",
+          "clock": "PM",
           "notification": true
         },
         "end": {
@@ -204,7 +204,7 @@
       "Dhuhr": {
         "start": {
           "time": "01:24",
-          "clock": "AM",
+          "clock": "PM",
           "notification": true
         },
         "end": {
@@ -268,7 +268,7 @@
       "Dhuhr": {
         "start": {
           "time": "01:24",
-          "clock": "AM",
+          "clock": "PM",
           "notification": true
         },
         "end": {
@@ -330,7 +330,7 @@
       "Dhuhr": {
         "start": {
           "time": "01:24",
-          "clock": "AM",
+          "clock": "PM",
           "notification": true
         },
         "end": {
@@ -394,7 +394,7 @@
       "Dhuhr": {
         "start": {
           "time": "01:24",
-          "clock": "AM",
+          "clock": "PM",
           "notification": true
         },
         "end": {
@@ -456,7 +456,7 @@
       "Dhuhr": {
         "start": {
           "time": "01:24",
-          "clock": "AM",
+          "clock": "PM",
           "notification": true
         },
         "end": {
